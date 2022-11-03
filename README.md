@@ -1,7 +1,7 @@
 
 # QR Code Generator
 
-Demo: https://ohidurbappy.github.io/qr-code-generator
+Demo: https://lg-qrcode-generator.netlify.app/
 
 ![Preview](qr-code-generator.png)
 
